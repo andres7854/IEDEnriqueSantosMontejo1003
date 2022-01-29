@@ -1,0 +1,23 @@
+.UserDescription {
+    padding: 15px;
+    padding-left: 40%;
+    align-content: center;
+    text-align: center;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+label {
+    margin: 15px;
+    padding: 15px;
+    border: white;
+    background-color: blue;
+    color: whitesmoke;
+    border-radius: 15px;
+}
+
+.profileImage {
+    height: 100px;
+}

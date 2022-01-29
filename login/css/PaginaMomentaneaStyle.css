@@ -1,0 +1,74 @@
+.body {
+    background-color: #151515;
+    font-family: monospace;
+    color: white;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+input[type="submit"] {
+    display: none;
+}
+
+input[type="text"] {
+    display: none;
+}
+
+input[id="textUpload"] {
+    width: 100px;
+    height: 100px;
+}
+
+input,
+textarea {
+    color: white;
+    border: white;
+    text-align: center;
+    background-color: #151515;
+    width: 400px;
+    height: auto;
+    margin-bottom: 20px;
+    padding: 7px;
+    margin: 15px;
+    box-sizing: border-box;
+    font-size: 17px;
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+}
+
+th {
+    height: 3em;
+}
+
+label {
+    margin: 15px;
+    padding: 15px;
+    border: white;
+    background-color: blue;
+    color: whitesmoke;
+    border-radius: 15px;
+}
+
+.formulario {
+    text-align: center;
+}
+
+.formTable {
+    width: 100%;
+}
+
+#PublicatedImage {
+    width: auto;
+    height: 30vh;
+}
+
+.Publications {
+    text-align: center;
+}
+
+.PublicationsTable {
+    width: 100%;
+}
